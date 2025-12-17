@@ -50,6 +50,4 @@ The analysis reveals performance trends across gender and highlights strengths a
 
 ---
 
-This project is part of my data analytics portfolio and demonstrates practical skills in data analysis, cleaning, and visualization using Power BI.
-
 *This project is part of my data analytics portfolio and demonstrates practical data analysis and visualization skills using Power BI.*
